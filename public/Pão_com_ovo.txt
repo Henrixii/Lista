@@ -1,0 +1,4 @@
+ingredientes: Pão e ovo
+calorias: 273,06 kcal
+
+serve apenas 1 pessoa
